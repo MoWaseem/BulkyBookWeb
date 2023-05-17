@@ -1,0 +1,14 @@
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\bin\Debug\net6.0\BullyBook.Models.deps.json
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\bin\Debug\net6.0\BullyBook.Models.runtimeconfig.json
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\bin\Debug\net6.0\BullyBook.Models.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\bin\Debug\net6.0\BullyBook.Models.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.csproj.AssemblyReference.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.AssemblyInfoInputs.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.AssemblyInfo.cs
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\refint\BullyBook.Models.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\BullyBook.Models.genruntimeconfig.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.Models\obj\Debug\net6.0\ref\BullyBook.Models.dll

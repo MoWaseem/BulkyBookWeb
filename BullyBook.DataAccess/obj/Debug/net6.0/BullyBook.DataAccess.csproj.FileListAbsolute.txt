@@ -1,0 +1,17 @@
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.DataAccess.deps.json
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.DataAccess.runtimeconfig.json
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.DataAccess.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.DataAccess.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.Models.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\bin\Debug\net6.0\BullyBook.Models.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.AssemblyInfo.cs
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.csproj.CopyComplete
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\refint\BullyBook.DataAccess.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\BullyBook.DataAccess.genruntimeconfig.cache
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BullyBook.DataAccess\obj\Debug\net6.0\ref\BullyBook.DataAccess.dll
