@@ -290,3 +290,6 @@ C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\obj\Debug\net6.0\re
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Stripe.net.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\DotNetEnv.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Sprache.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.SecretsManager.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Amazon.SecretsManager.Extensions.Caching.dll

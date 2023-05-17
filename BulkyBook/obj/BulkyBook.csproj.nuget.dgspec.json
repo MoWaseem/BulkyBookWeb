@@ -122,6 +122,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AWSSDK.SecretsManager.Caching": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
             "DotNetEnv": {
               "target": "Package",
               "version": "[2.5.0, )"

@@ -1,4 +1,6 @@
 using System.Text;
+using Amazon.SecretsManager;
+using Amazon.SecretsManager.Model;
 using BulkyBook.Utilities;
 using BullyBook.DataAccess.Data;
 using BullyBook.DataAccess.Repository;
@@ -7,12 +9,18 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
+using System.Drawing;
+using Amazon;
 
 
 DotNetEnv.Env.Load();
 var encodedConnectionString = Environment.GetEnvironmentVariable("encodedConnectionString");
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
