@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BullyBook.Models", "BullyBo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.Utilities", "BulkyBook.Utilities\BulkyBook.Utilities.csproj", "{23A04420-8DBD-414B-B770-861B1889D8FF}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C872D842-C487-4969-A65A-C76C71976860}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{23A04420-8DBD-414B-B770-861B1889D8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A04420-8DBD-414B-B770-861B1889D8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A04420-8DBD-414B-B770-861B1889D8FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C872D842-C487-4969-A65A-C76C71976860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C872D842-C487-4969-A65A-C76C71976860}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C872D842-C487-4969-A65A-C76C71976860}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C872D842-C487-4969-A65A-C76C71976860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,3 +1,4 @@
+using System.Text;
 using BulkyBook.Utilities;
 using BullyBook.DataAccess.Data;
 using BullyBook.DataAccess.Repository;
@@ -9,28 +10,22 @@ using Stripe;
 
 
 DotNetEnv.Env.Load();
+var encodedConnectionString = Environment.GetEnvironmentVariable("encodedConnectionString");
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
-
-
-
-
-//builder.Services.AddDbContext<ApplicationDbContext>(options
-//    => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")
-//    ));
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(Environment.GetEnvironmentVariable("connectionString") ?? string.Empty));
-
-//builder.Services.Configure<StripSettings>(builder.Configuration.GetSection("Strip"));
-builder.Services.Configure<StripSettings>(options =>
-{
-    options.SecretKey = Environment.GetEnvironmentVariable("SecretKey");
-    options.PublishableKey = Environment.GetEnvironmentVariable("PublishableKey");
-});
+builder.Services.AddDbContext<ApplicationDbContext>(options
+    => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")
+    ));
+builder.Services.Configure<StripSettings>(builder.Configuration.GetSection("Strip"));
+//builder.Services.Configure<StripSettings>(options =>
+//{
+//    options.SecretKey = Environment.GetEnvironmentVariable("SecretKey");
+//    options.PublishableKey = Environment.GetEnvironmentVariable("PublishableKey");
+//});
 
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders()
