@@ -1,6 +1,5 @@
+using System.Diagnostics;
 using System.Text;
-using Amazon.SecretsManager;
-using Amazon.SecretsManager.Model;
 using BulkyBook.Utilities;
 using BullyBook.DataAccess.Data;
 using BullyBook.DataAccess.Repository;
@@ -9,32 +8,24 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
-using System.Drawing;
-using Amazon;
 
 
+// Connection string through Env
 DotNetEnv.Env.Load();
-var encodedConnectionString = Environment.GetEnvironmentVariable("encodedConnectionString");
+var connectionString = Environment.GetEnvironmentVariable("encodedConnectionString");
+Debug.Assert(connectionString != null, nameof(connectionString) + " != null");
+byte[] data = Convert.FromBase64String(connectionString);
+var decodedConnectionString = Encoding.UTF8.GetString(data);
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-
-
-
-// Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options
-    => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")
+    => options.UseSqlServer(decodedConnectionString
     ));
 builder.Services.Configure<StripSettings>(builder.Configuration.GetSection("Strip"));
-//builder.Services.Configure<StripSettings>(options =>
-//{
-//    options.SecretKey = Environment.GetEnvironmentVariable("SecretKey");
-//    options.PublishableKey = Environment.GetEnvironmentVariable("PublishableKey");
-//});
-
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();

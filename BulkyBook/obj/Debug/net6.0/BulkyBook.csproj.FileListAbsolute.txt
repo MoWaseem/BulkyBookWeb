@@ -6,6 +6,10 @@ C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Bu
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\BulkyBook.runtimeconfig.json
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\BulkyBook.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\BulkyBook.pdb
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.SecretsManager.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Amazon.SecretsManager.Extensions.Caching.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\DotNetEnv.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Humanizer.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\MessagePack.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -74,6 +78,8 @@ C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Nu
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Sprache.dll
+C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Stripe.net.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -287,9 +293,3 @@ C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\obj\Debug\net6.0\re
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\obj\Debug\net6.0\BulkyBook.pdb
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\obj\Debug\net6.0\BulkyBook.genruntimeconfig.cache
 C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\obj\Debug\net6.0\ref\BulkyBook.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Stripe.net.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\DotNetEnv.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Sprache.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.Core.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\AWSSDK.SecretsManager.dll
-C:\Users\muhammad.saleem\source\repos\BulkyBookWeb\BulkyBook\bin\Debug\net6.0\Amazon.SecretsManager.Extensions.Caching.dll
